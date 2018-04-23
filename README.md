@@ -7,4 +7,4 @@ CIT590 course homework: simple data reading, sorting, and presenting. Check the 
 
 ## TowerBlaster: 
 
-CIT 590 course homework: command line game for tower blaster. Check the [pdf](../master/TowerBlaser/CIT590HW5.pdf) for more details.
+CIT 590 course homework: command line game for tower blaster. Check the [pdf](../master/TowerBlaser/CIT590HW3.pdf) for more details.
